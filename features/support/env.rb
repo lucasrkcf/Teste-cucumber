@@ -1,0 +1,6 @@
+require 'capybara'
+require 'capybara/cucumber'
+require 'report_builder'
+require 'selenium-webdriver'
+require 'httparty'
+require 'faker'
